@@ -1,0 +1,14 @@
+name: compbio
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - scikit-learn
+  - jupyterlab
+  - ipykernel
+  - matplotlib
+  - jupyter
+  - numpy
+  - pandas
+  - scipy
+prefix: C:\Users\adamn\miniconda3\envs\compbio
